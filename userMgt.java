@@ -2,8 +2,7 @@ Landmark
 Obi
 Bayo
 Ife
-Datti
-ife
+Mercy
 Gbenga
 Shayo
 Fola
