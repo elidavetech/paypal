@@ -1,5 +1,7 @@
-God is good
+We manage ;
 great app
-.netapplication
+.net application
 NodeJS applications
 Python applications
+web applications
+apache application
