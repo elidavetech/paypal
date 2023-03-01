@@ -5,3 +5,4 @@ NodeJS applications
 Python applications
 web applications
 apache application
+bug removed
