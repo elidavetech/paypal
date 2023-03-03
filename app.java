@@ -1,3 +1,8 @@
-God is good
+We manage ;
 great app
-NodeJS application
+.net application
+NodeJS applications
+Python applications
+web applications
+apache application
+bug removed
