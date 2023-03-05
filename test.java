@@ -1,1 +1,2 @@
 testing
+God is marvelous
